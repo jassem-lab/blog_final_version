@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "blog website",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "A blog website build with gatsby contentful and reactjs ",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "jassem gaaloul",
   "dependencies": {
     "browser-monads": "^1.0.0",
     "dotenv": "^8.2.0",
