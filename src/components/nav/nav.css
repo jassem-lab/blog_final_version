@@ -1,6 +1,7 @@
 nav {
     transform: translateY(80px);
     margin-top: -80px;
+    padding : 0 10% ; 
 }
 
 .nav__items {

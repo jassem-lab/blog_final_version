@@ -7,10 +7,13 @@ import Layout from "../components/layout"
 import Footer from '../components/footer';
 import SEO from "../components/seo"
 import './index.css';
+import MainPage from './mainHome';
 
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
+    <Nav />
+    {/* <MainPage />  */}
     <Nav />
     <Featured />
     <Home />
